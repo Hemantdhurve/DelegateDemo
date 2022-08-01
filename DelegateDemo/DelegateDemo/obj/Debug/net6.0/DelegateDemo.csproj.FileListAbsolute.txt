@@ -1,0 +1,15 @@
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.exe
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.deps.json
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.runtimeconfig.json
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.dll
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\bin\Debug\net6.0\DelegateDemo.pdb
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.AssemblyReference.cache
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfoInputs.cache
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfo.cs
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.dll
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\refint\DelegateDemo.dll
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.pdb
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\DelegateDemo.genruntimeconfig.cache
+F:\VisualStudio\source\repos\DelegateDemo\DelegateDemo\obj\Debug\net6.0\ref\DelegateDemo.dll
